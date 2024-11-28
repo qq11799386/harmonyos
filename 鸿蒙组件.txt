@@ -1,0 +1,48 @@
+Text 文本组件
+	span 段落（可以单独设置文本的内容）
+Image 图片组件
+
+Button 按钮组件
+
+Radio  单选框组件
+
+Checkbox 复选框组件 - checkboxGroup 复选框分组
+
+toggle  自动开关 可以定义相似的->radio , checkbox , button 
+
+TextInput  文本输入框
+TextArea   多行文本输入框
+	-属性：
+
+Drvider 分割线
+
+
+
+@CustomDialog  定义对话框组件
+CustomDialogController  定义对话框的控制器
+TipsDialog   提示弹出框
+selectDialog 选择弹出框
+confirmDialog  确认弹出框
+alertDialog 警告弹出框
+loadingDialog  加载弹出框
+actionSheet 列表选择器
+CalendarPickerDialog 日历选择器
+DatePickerDialog 日期滑动选择器
+TimePickerDialog 时间滑动选择器
+TextPickerDialog 文本滑动选择器
+promptAcation  弹窗提示
+
+showToast 文本提示框
+showDialog 显示对话框
+showActionMenu 创建显示菜单
+openCustomDialog 打开自定义弹窗
+
+
+progress 进度条
+DataPanel  数据组件
+Marquee 跑马灯组件
+Menu 菜单组件 MenuItem 子菜单 
+		 组件使用.bindMenu() 绑定菜单组件   使用装饰器@Builder 定义组件
+
+Select 选择框组件
+
